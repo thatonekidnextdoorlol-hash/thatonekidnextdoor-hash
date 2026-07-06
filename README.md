@@ -9,7 +9,7 @@ I build things that make my life either easier, or much harder. I also like to d
 - **HTML** // I suck with it, being completely honest right now.
 - **C** // Currently trying to learn C, out of all other languages... Yes, just C, not C#, not C++, just C.
 
-### 🚀 Currently Working on:
+### 🔨 Currently Working on:
 
 - Discord Bots
 - Roblox Games/Projects
